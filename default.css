@@ -1,12 +1,11 @@
 :root{
-	--mainColor:#1abc9c;
-	;
-	--secondaryColor:rgb(28, 198, 228);
+	--mainColor:#eaeaea;
+	--secondaryColor:#fff;
 
 	--borderColor:#c1c1c1;
 
-	--mainText:rgb(255, 255, 255);
-	--secondaryText:#464b50;
+	--mainText:black;
+	--secondaryText:#4b5156;
 
 	--themeDotBorder:#24292e;
 
@@ -177,7 +176,6 @@ h6 { font-size: 16px;}
 	height: auto;
 	width: 100%;
 	object-fit: cover;
-	border:2px solid var(--borderColor);
 }
 
 
