@@ -210,18 +210,6 @@ h6 { font-size: 16px;}
 	background-color: #fff;
 }
 
-#blue-mode{
-	background-color: #192734;
-}
-
-#green-mode{
-	background-color: #78866b;
-}
-
-#purple-mode{
-	background-color: #7E4C74;
-}
-
 #settings-note{
 	font-size: 12px;
 	font-style: italic;
@@ -324,6 +312,8 @@ h6 { font-size: 16px;}
 	-webkit-box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
 	-moz-box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
 	box-shadow: -2px 7px 21px -9px rgba(0,0,0,0.75);
+	
+
 }
 
 .thumbnail{
@@ -346,6 +336,7 @@ h6 { font-size: 16px;}
 .post-intro{
 	color:#4b5156;
 	font-size: 14px;
+	height:80px;
 }
 
 
@@ -433,7 +424,7 @@ h6 { font-size: 16px;}
 	background-color: transparent;
 	width: 300px;
 	height: 300px;
-	border: 1px solid #f1f1f1;
+	
 	perspective: 1000px; /* Remove this if you don't want the 3D effect */
   }
   
