@@ -59,10 +59,11 @@ function clearTask(){
     
 localStorage.clear()
 showItem()
+
 }
 
 $("#myInput").keyup(function(event) {
     if (event.keyCode === 13) {
-        $(".addBtn").click();
+        addTaskBtn.click();
     }
 });
