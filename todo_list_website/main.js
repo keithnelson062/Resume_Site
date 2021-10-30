@@ -62,7 +62,7 @@ showItem()
 
 }
 
-$("#myInput").keyup(function(event) {
+inputVal.keyup(function(event) {
     if (event.keyCode === 13) {
         addTaskBtn.click();
     }
