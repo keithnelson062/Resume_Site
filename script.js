@@ -5,7 +5,7 @@ var y = 0;
 var z = 0;
 var txt = "Hi, I'm Keith Nelson";
 var text = "I enjoy coding and watching the stock market (Thats where my interest in data science started)";
-var text1 = "I love Fullstack development and designing, testing, and programming applications";
+var text1 = "I love Fullstack development and designing, testing, programming applications, and working in teams";
 var text2 = "Soon to be graduate of Washington University in St. Louis";
 
 //<p id="text">I enjoy coding and watching the stock market (Thats where my interest in data science started)</p>
