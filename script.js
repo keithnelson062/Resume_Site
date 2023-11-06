@@ -6,16 +6,11 @@ var z = 0;
 var a = 0;
 var txt = "Hi, I'm Keith Nelson";
 var text = "I enjoy coding and watching the stock market (Thats where my interest in data science started)";
-var text1 = "I love Fullstack development and designing, testing, programming applications, and working in teams";
-var text2 = "Soon to be graduate of Washington University in St. Louis";
+var text1 = "I love Fullstack development and designing, testing, programming applications, and engineering solutions to problems";
+var text2 = "Graduate of Washington University in St. Louis";
 var text3 = "I am very comfortable working under pressure and love working with other people and teams"
 
-//<p id="text">I enjoy coding and watching the stock market (Thats where my interest in data science started)</p>
 
-//<p id="text1">I love Fullstack development and designing. testing, and programming applications </p>
-//<hr>
-
-//</hr><h4 id="text2">Soon to be graduate of Washington University in St. Louis</h4>
 
 var speed = 100;
 
